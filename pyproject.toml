@@ -108,7 +108,7 @@ dependencies = [
   "pandas<2.3",
   "requests<2.33",
   "sql-formatter<0.7",
-  "sqlalchemy-cratedb==0.40.0",
+  "sqlalchemy-cratedb==0.40.1",
   "sqlmakeuper<0.2",
   "urllib3<3",
 ]
